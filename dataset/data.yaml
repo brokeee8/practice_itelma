@@ -1,0 +1,8 @@
+path: D:\itelma practice\dataset
+train: D:\itelma practice\dataset\train\images
+val: D:\itelma practice\dataset\val\images
+names:
+  - bird
+  - human
+  - cup
+  - number
